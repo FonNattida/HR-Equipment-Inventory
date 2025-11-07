@@ -1,0 +1,5 @@
+{
+  "name": "HR Equipment AI Assistant",
+  "description": "An AI-powered dashboard for HR to manage equipment inventory, check stock in real-time, get low-stock alerts, and forecast usage with a natural language chat interface.",
+  "requestFramePermissions": []
+}
